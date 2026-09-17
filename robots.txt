@@ -15,4 +15,4 @@ User-agent: PerplexityBot
 Allow: /
 
 # Sitemap
-Sitemap: https://raihan-ali.com/sitemap.xml
+Sitemap: https://raihanalipro.github.io/sitemap.xml
